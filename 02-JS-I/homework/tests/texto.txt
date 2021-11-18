@@ -1,0 +1,3 @@
+Variables: Se utilizan para guardar y darle valor a un elemento en los lenjuages de programación
+Strings: Son hilos de caracteres, o bloques de texto. Siempre se definen en comillas "", ya sean dobles o simples
+Funciones: Objetos que se usan para no repetir codigo. 
